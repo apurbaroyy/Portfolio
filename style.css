@@ -1,0 +1,234 @@
+/* ===========================
+   Google Font
+=========================== */
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#f8f9fa;
+    color:#333;
+    scroll-behavior:smooth;
+}
+
+/* ===========================
+Navbar
+=========================== */
+
+.navbar{
+    box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+.navbar-brand{
+    font-size:1.4rem;
+    font-weight:700;
+}
+
+.nav-link{
+    font-weight:500;
+}
+
+.nav-link:hover{
+    color:#ffc107 !important;
+}
+
+/* ===========================
+Hero Section
+=========================== */
+
+#home{
+    min-height:90vh;
+    display:flex;
+    align-items:center;
+}
+
+.profile-img{
+    width:320px;
+    height:320px;
+    object-fit:cover;
+    border-radius:50%;
+    border:8px solid white;
+    box-shadow:0 15px 35px rgba(0,0,0,.2);
+}
+
+/* ===========================
+Buttons
+=========================== */
+
+.btn{
+    border-radius:30px;
+    padding:12px 28px;
+    transition:.3s;
+}
+
+.btn:hover{
+    transform:translateY(-3px);
+}
+
+/* ===========================
+Cards
+=========================== */
+
+.card{
+    border:none;
+    border-radius:15px;
+    transition:.4s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+}
+
+/* ===========================
+Progress Bar
+=========================== */
+
+.progress{
+    height:24px;
+    border-radius:30px;
+}
+
+.progress-bar{
+    font-weight:600;
+}
+
+/* ===========================
+Section Title
+=========================== */
+
+section{
+    padding:80px 0;
+}
+
+section h2{
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+/* ===========================
+Project Image
+=========================== */
+
+.card img{
+    height:220px;
+    object-fit:cover;
+}
+
+/* ===========================
+Contact
+=========================== */
+
+form input,
+form textarea{
+
+    border-radius:10px;
+
+}
+
+form button{
+
+    width:100%;
+
+}
+
+/* ===========================
+Footer
+=========================== */
+
+footer{
+
+    background:#212529;
+
+}
+
+footer h4{
+
+    font-weight:700;
+
+}
+
+footer i{
+
+    font-size:22px;
+
+    margin:8px;
+
+}
+
+/* ===========================
+Icons
+=========================== */
+
+.bi{
+
+    margin-right:8px;
+
+}
+
+/* ===========================
+Responsive
+=========================== */
+
+@media(max-width:992px){
+
+.profile-img{
+
+width:250px;
+height:250px;
+
+margin-top:30px;
+
+}
+
+}
+
+@media(max-width:768px){
+
+h1{
+
+font-size:2.2rem;
+
+}
+
+.display-4{
+
+font-size:2.3rem;
+
+}
+
+section{
+
+padding:60px 0;
+
+}
+
+.card{
+
+margin-bottom:20px;
+
+}
+
+}
+
+@media(max-width:576px){
+
+.profile-img{
+
+width:200px;
+height:200px;
+
+}
+
+.navbar-brand{
+
+font-size:1.2rem;
+
+}
+
+.btn{
+
+width:100%;
+margin-bottom:10px;
+
+}
+
+}
