@@ -11,7 +11,7 @@ A modern, responsive, and interactive personal portfolio website built to showca
 
 🌍 **Portfolio:** https://apurbaroyy.github.io/portfolio/
 
-> Replace the URL above with your deployed website.
+
 
 ---
 
