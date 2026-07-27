@@ -1,4 +1,4 @@
-# 🌐 Apurba Roy - Personal Portfolio
+# 🌐 Apurba Chandra Roy - Personal Portfolio
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/apurbaroyy/portfolio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/apurbaroyy/portfolio)
@@ -7,9 +7,9 @@
 
 A modern, responsive, and interactive personal portfolio website built to showcase my skills, projects, experience, and achievements.
 
-## 🚀 Live Demo
+## 🚀 Live Link
 
-🌍 **Portfolio:** https://your-portfolio-url.vercel.app
+🌍 **Portfolio:** https://apurbaroyy.github.io/portfolio/
 
 > Replace the URL above with your deployed website.
 
