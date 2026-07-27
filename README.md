@@ -1,63 +1,75 @@
-# 🌟 Apurba Chandra Roy | Personal Portfolio
-
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/apurbaroyy/portfolio?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/apurbaroyy/portfolio?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/apurbaroyy/portfolio?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/apurbaroyy/portfolio?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+# 👋 Hi, I'm Apurba Chandra Roy
 
-### 🚀 A Modern, Responsive & Interactive Portfolio Website
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications" />
 
-Showcasing my projects, skills, experience, and passion for web development.
+<p>
+A passionate <strong>Frontend Developer</strong> from Bangladesh 🇧🇩 <br>
+I love building beautiful, responsive and user-friendly web applications.
+</p>
 
-🌐 **Live Demo:**  
-👉 **https://apurbaroyy.github.io/portfolio/**
+<p>
+
+<a href="https://apurbaroyy.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐 Live Portfolio-00C853?style=for-the-badge">
+</a>
+
+<a href="https://github.com/apurbaroyy">
+<img src="https://img.shields.io/github/followers/apurbaroyy?style=for-the-badge">
+</a>
+
+<a href="https://github.com/apurbaroyy/portfolio/stargazers">
+<img src="https://img.shields.io/github/stars/apurbaroyy/portfolio?style=for-the-badge">
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=apurbaroyy&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-## 📖 About The Project
+# 🌐 Personal Portfolio
 
-This portfolio represents my journey as a **Frontend Developer**. It highlights my technical skills, featured projects, educational background, and provides an easy way to connect with me.
+This repository contains my personal portfolio website where I showcase my projects, technical skills, education, and experience.
 
-Designed with a focus on **performance**, **responsive design**, and **clean user experience**, this project reflects my passion for creating modern web applications.
+The website is built using modern frontend technologies with a focus on clean UI, smooth animations, responsive design, and performance.
+
+## 🚀 Live Website
+
+### 🌍 https://apurbaroyy.github.io/portfolio/
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-- 🎨 Modern & Elegant UI
-- 📱 Fully Responsive for All Devices
-- 🌙 Dark / Light Theme
-- ⚡ Lightning Fast Performance
-- 💼 Featured Projects Showcase
-- 👨‍💻 About Me Section
-- 🛠 Technical Skills
+- 🎨 Beautiful Modern UI
+- 📱 Responsive on all devices
+- 🌙 Dark & Light Mode
+- ⚡ Lightning Fast
+- 💼 Projects Showcase
+- 🛠 Skills Section
+- 👨 About Me
 - 📄 Resume Download
 - 📬 Contact Form
-- ✨ Smooth Animations
+- 🎬 Smooth Animations
 - 🔍 SEO Friendly
 
 ---
 
-## 🛠 Built With
+# 🛠 Tech Stack
 
-| Technology | Description |
-|------------|-------------|
-| ⚛ React.js | Frontend Library |
-| ⚡ Vite | Build Tool |
-| 🎨 Tailwind CSS | CSS Framework |
-| 💛 JavaScript (ES6+) | Programming Language |
-| 🧩 HTML5 | Markup Language |
-| 🎭 CSS3 | Styling |
-| 🎬 Framer Motion | Animations |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,git,github,vscode"/>
+
+</p>
 
 ---
 
-## 📂 Project Structure
+# 📂 Folder Structure
 
 ```text
 portfolio/
@@ -79,39 +91,39 @@ portfolio/
 
 ---
 
-## ⚙️ Getting Started
+# ⚙️ Installation
 
-### Clone the Repository
+Clone Repository
 
 ```bash
 git clone https://github.com/apurbaroyy/portfolio.git
 ```
 
-### Navigate to the Project
+Move into Project
 
 ```bash
 cd portfolio
 ```
 
-### Install Dependencies
+Install Packages
 
 ```bash
 npm install
 ```
 
-### Run Development Server
+Start Development Server
 
 ```bash
 npm run dev
 ```
 
-### Build for Production
+Production Build
 
 ```bash
 npm run build
 ```
 
-### Preview Production Build
+Preview Build
 
 ```bash
 npm run preview
@@ -119,78 +131,107 @@ npm run preview
 
 ---
 
-## 📸 Preview
+# 📸 Preview
 
-> Replace the image below with a screenshot of your portfolio.
+> Replace this image with your portfolio screenshot.
 
 ```markdown
-![Portfolio Screenshot](./src/assets/portfolio-preview.png)
+assets/portfolio-preview.png
+```
+
+```md
+![Portfolio Preview](./src/assets/portfolio-preview.png)
 ```
 
 ---
 
-## 👨‍💻 About Me
+# 💻 Technologies
 
-Hello! I'm **Apurba Chandra Roy**, a passionate Frontend Developer dedicated to building responsive, accessible, and visually appealing web applications.
-
-I enjoy turning ideas into interactive digital experiences using modern technologies like React, Tailwind CSS, and JavaScript.
+| Frontend | Styling | Tools |
+|----------|----------|------|
+| React | Tailwind CSS | Git |
+| JavaScript | CSS3 | GitHub |
+| HTML5 | Framer Motion | VS Code |
+| Vite | Responsive Design | npm |
 
 ---
 
-## 📬 Connect With Me
+# 👨‍💻 About Me
 
-<p align="left">
+Hi 👋
+
+I'm **Apurba Chandra Roy**, a Frontend Developer passionate about creating elegant, responsive, and interactive web experiences.
+
+I enjoy transforming ideas into real-world applications using modern technologies like React, Tailwind CSS, JavaScript, and Vite.
+
+Currently, I'm focused on improving my full-stack development skills while building exciting projects.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apurbaroyy&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=apurbaroyy&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurbaroyy&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/apurbaroyy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/apurba-chandra-roy-046976300/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://apurbaroyy.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 </p>
 
 ---
 
-## 🤝 Contributing
+# ⭐ Support
 
-Contributions, issues, and feature requests are welcome!
+If you like this project,
 
-If you'd like to improve this project:
+Leave a ⭐ on GitHub.
 
-1. Fork this repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+It really motivates me to build more awesome projects.
 
 ---
 
-## ⭐ Show Your Support
+# 📄 License
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
-It motivates me to keep building and sharing more awesome projects.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
+Licensed under the **MIT License**.
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for Visiting!
+## ❤️ Thank You for Visiting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7B68EE&height=120&section=footer"/>
 
 Made with ❤️ by **Apurba Chandra Roy**
-
-⭐ Don't forget to Star this Repository ⭐
 
 </div>
