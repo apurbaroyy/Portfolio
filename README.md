@@ -1,28 +1,22 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Apurba Chandra Roy
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications" />
 
-<p>
-A passionate <strong>Frontend Developer</strong> from Bangladesh 🇧🇩 <br>
+A passionate **Frontend Developer** from Bangladesh 🇧🇩  
 I love building beautiful, responsive and user-friendly web applications.
-</p>
 
 <p>
-
-<a href="[https://apurbaroyy.github.io/portfolio/]">
-<img src="https://img.shields.io/badge/🌐 Live Portfolio-00C853?style=for-the-badge">
+<a href="https://apurbaroyy.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-00C853?style=for-the-badge" />
 </a>
-
 <a href="https://github.com/apurbaroyy">
-<img src="https://img.shields.io/github/followers/apurbaroyy?style=for-the-badge">
+<img src="https://img.shields.io/github/followers/apurbaroyy?style=for-the-badge" />
 </a>
-
-<a href="https://github.com/apurbaroyy/portfolio/stargazers">
-<img src="https://img.shields.io/github/stars/apurbaroyy/portfolio?style=for-the-badge">
+<a href="https://github.com/apurbaroyy/Portfolio/stargazers">
+<img src="https://img.shields.io/github/stars/apurbaroyy/Portfolio?style=for-the-badge" />
 </a>
-
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=apurbaroyy&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -35,11 +29,8 @@ I love building beautiful, responsive and user-friendly web applications.
 
 This repository contains my personal portfolio website where I showcase my projects, technical skills, education, and experience.
 
-The website is built using modern frontend technologies with a focus on clean UI, smooth animations, responsive design, and performance.
-
-## 🚀 Live Website
-
-### 🌍 https://apurbaroyy.github.io/portfolio/
+🌍 **Live Portfolio:**  
+👉 https://apurbaroyy.github.io/Portfolio/
 
 ---
 
@@ -62,9 +53,7 @@ The website is built using modern frontend technologies with a focus on clean UI
 # 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,git,github,vscode"/>
-
 </p>
 
 ---
@@ -75,7 +64,6 @@ The website is built using modern frontend technologies with a focus on clean UI
 portfolio/
 │
 ├── public/
-│
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -93,62 +81,34 @@ portfolio/
 
 # ⚙️ Installation
 
-Clone Repository
-
 ```bash
-git clone https://github.com/apurbaroyy/portfolio.git
-```
-
-Move into Project
-
-```bash
-cd portfolio
-```
-
-Install Packages
-
-```bash
+git clone https://github.com/apurbaroyy/Portfolio.git
+cd Portfolio
 npm install
-```
-
-Start Development Server
-
-```bash
 npm run dev
 ```
 
-Production Build
+Production build:
 
 ```bash
 npm run build
-```
-
-Preview Build
-
-```bash
 npm run preview
 ```
 
 ---
 
-# 📸 Preview
+# 📸 Portfolio Preview
 
-> Replace this image with your portfolio screenshot.
+Visit my live portfolio:
 
-```markdown
-assets/portfolio-preview.png
-```
-
-```md
-![Portfolio Preview](./src/assets/portfolio-preview.png)
-```
+**[🌐 View My Portfolio](https://apurbaroyy.github.io/Portfolio/)**
 
 ---
 
 # 💻 Technologies
 
 | Frontend | Styling | Tools |
-|----------|----------|------|
+|---|---|---|
 | React | Tailwind CSS | Git |
 | JavaScript | CSS3 | GitHub |
 | HTML5 | Framer Motion | VS Code |
@@ -171,11 +131,8 @@ Currently, I'm focused on improving my full-stack development skills while build
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=apurbaroyy&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=apurbaroyy&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -183,9 +140,7 @@ Currently, I'm focused on improving my full-stack development skills while build
 # 📈 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurbaroyy&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -193,28 +148,22 @@ Currently, I'm focused on improving my full-stack development skills while build
 # 🤝 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/apurbaroyy">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 <a href="https://www.linkedin.com/in/apurba-chandra-roy-046976300/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-<a href="https://apurbaroyy.github.io/portfolio/">
+<a href="https://apurbaroyy.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
-
 </p>
 
 ---
 
 # ⭐ Support
 
-If you like this project,
-
-Leave a ⭐ on GitHub.
+If you like this project, please leave a ⭐ on GitHub.
 
 It really motivates me to build more awesome projects.
 
@@ -233,5 +182,7 @@ Licensed under the **MIT License**.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7B68EE&height=120&section=footer"/>
 
 Made with ❤️ by **Apurba Chandra Roy**
+
+🌐 [Visit My Portfolio](https://apurbaroyy.github.io/Portfolio/)
 
 </div>
