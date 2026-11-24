@@ -11,7 +11,7 @@ I love building beautiful, responsive and user-friendly web applications.
 
 <p>
 
-<a href="https://apurbaroyy.github.io/portfolio/">
+<a href="[https://apurbaroyy.github.io/portfolio/]">
 <img src="https://img.shields.io/badge/🌐 Live Portfolio-00C853?style=for-the-badge">
 </a>
 
